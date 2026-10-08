@@ -461,7 +461,7 @@ This project demonstrates practical implementation of:
 Java Full Stack Developer
 
 * GitHub: https://github.com/chandru-venkatesan
-* LinkedIn: Add your LinkedIn profile URL here
+* LinkedIn: https://www.linkedin.com/in/chandru-venkatesan
 
 ---
 
